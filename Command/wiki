@@ -1,0 +1,9 @@
+创建一个命令角色Command
+
+
+
+命令的接受者
+Cook
+具体的命令对象
+PigCook
+DuckCook
